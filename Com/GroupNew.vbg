@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=..\Script\BranchLatest.vbp
+Project=KCCACCApprovedCom.vbp
+Project=KCCBBounceApproval.vbp

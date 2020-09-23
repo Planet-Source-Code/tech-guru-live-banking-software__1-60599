@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=..\..\..\..\BranchImplemented2706\Branch\Script\BranchLatest.vbp
+Project=..\FDLoan\KCCBFDLoan.vbp
+Project=KCCBNscLoan.vbp

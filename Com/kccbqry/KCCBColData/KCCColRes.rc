@@ -1,0 +1,84 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    101                     "A.FD_NO,A.ACCOUNT_NO,B.FD_DATE,A.NAME,A.ADDRESS,A.NOMINEE,A.AC_OPENED_DATE,B.FD_AMOUNT,B.MATURITY_AMT,B.MATURITY_DATE,B.INTEREST_AMT,"
+    102                     "A.ACCOUNT_NO,A.NAME_OF_AC_HOLDER,A.DATE_OPENED,A.FATHER_NAME,A.ADDRESS,A.PHONE_NO,A.NOMINEE,A.CLOSE_OPERATIVE,A.SINGLE_JOINT,A.CAN_INTRODUCE,B.OPENING_BALANCE,"
+    103                     "A.ACCOUNT_NO,A.NAME_OF_AC_HOLDER,A.DATE_OPENED,A.FATHER_NAME,A.ADDRESS,A.PHONE_NO,A.NOMINEE,A.CLOSE_OPERATIVE,A.SINGLE_JOINT,A.CAN_INTRODUCE,B.OPENING_BALANCE,"
+    104                     "A.ACCOUNT_NO,A.NAME_OF_AC_HOLDER,A.DATE_OPENED,A.FATHER_NAME,A.ADDRESS,A.PHONE_NO,A.NOMINEE,A.CLOSE_OPERATIVE,A.SINGLE_JOINT,A.CAN_INTRODUCE,B.OPENING_BALANCE,"
+    105                     "ACCOUNT_NO,NAME_OF_AC_HOLDER,DATEACCOPENING,FATHER_NAME,ADDRESS,PHONE_NO,NOMINEE,PERIOD,AMOUNT,RATE_OF_INTEREST,MATURITY_AMOUNT,RD_LIEN,ISCLOSED,RD_MATURITY_DATE,"
+    106                     "A.RD_LOAN_ACCOUNT_NO,A.RD_ACCOUNT_NO,B.NAME_OF_AC_HOLDER,A.LOAN_DATE,B.FATHER_NAME,B.ADDRESS,B.PHONE_NO,A.AMOUNT,A.ISCLOSED,B.AMOUNT,"
+    107                     "A.ACCOUNT_NO,C.NAME,A.LOAN_AMOUNT,B.FD_NO,B.LOAN_SANCTIONED,A.LOAN_DATE,C.ADDRESS,"
+    108                     "A.ACCOUNT_NO,A.ISSUE_DATE,B.NAME_OF_AC_HOLDER,A.LOOSE_CHEQUE,A.CHEQUE_NO_FROM,A.CHEQUE_NO_TO,A.NO_OF_CHEQUES_USED,"
+    109                     "A.ACCOUNT_NO,A.ISSUE_DATE,B.NAME_OF_AC_HOLDER,A.LOOSE_CHEQUE,A.CHEQUE_NO_FROM,A.CHEQUE_NO_TO,A.NO_OF_CHEQUES_USED,"
+    110                     "A.ACCOUNT_NO,B.NAME_OF_AC_HOLDER,A.CHEQUE_NO,A.CLEARING_DATE,A.CLEARED,A.CHEQUE_AMOUNT,A.CHEQUE_AMOUNT,"
+    111                     "A.ACCOUNT_NO,B.NAME_OF_AC_HOLDER,A.CHEQUE_NO,A.CLEARING_DATE,A.CLEARED,A.CHEQUE_AMOUNT,A.CHEQUE_AMOUNT,"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

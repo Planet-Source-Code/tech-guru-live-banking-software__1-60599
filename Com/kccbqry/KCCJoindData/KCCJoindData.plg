@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KCCJoindData - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/KCCBJoinRes.res" /d "_DEBUG" "C:\BranchLatestOn 09-05-02\Com\kccbqry\KCCJoindData\KCCBJoinRes.rc"" 
+Creating temporary file "C:\WINDOWS\TEMP\RSPF071.TMP" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "KCCJOINDDATA_EXPORTS" /Fp"Debug/KCCJoindData.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\BranchLatestOn 09-05-02\Com\kccbqry\KCCJoindData\KCCJoindData.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPF071.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSPF072.TMP" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "KCCJOINDDATA_EXPORTS" /Fp"Debug/KCCJoindData.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\BranchLatestOn 09-05-02\Com\kccbqry\KCCJoindData\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPF072.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSPF073.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:yes /pdb:"Debug/KCCJoindData.pdb" /debug /machine:I386 /out:"Debug/KCCJoindData.dll" /implib:"Debug/KCCJoindData.lib" /pdbtype:sept 
+".\Debug\KCCJoindData.obj"
+".\Debug\StdAfx.obj"
+".\Debug\KCCBJoinRes.res"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPF073.TMP"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+KCCJoindData.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+KCCJoindData.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
