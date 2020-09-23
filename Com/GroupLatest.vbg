@@ -1,0 +1,20 @@
+VBGROUP 5.0
+StartupProject=..\Script\BranchLatest.vbp
+Project=KCCACCApprovedCom.vbp
+Project=KCCACCBankMaster.vbp
+Project=KCCACCRate_of_Interest.vbp
+Project=KCCACCStockHandDp.vbp
+Project=KCCBAccHeadMst.vbp
+Project=KCCBAccountClosing.vbp
+Project=KCCBAgriLoanPLs.vbp
+Project=KCCBBounceApproval.vbp
+Project=KCCBChequeBookIssue.vbp
+Project=KCCBClearing.vbp
+Project=KccbCustomerLimit.vbp
+Project=KCCBFd.vbp
+Project=KCCBFDLoan.vbp
+Project=KCCBUsedChequeMaster.vbp
+Project=PrjFDDtl.vbp
+Project=PrjStandingInstruct.vbp
+Project=RecuringDeposit.vbp
+Project=TDS.vbp

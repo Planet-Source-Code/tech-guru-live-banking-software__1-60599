@@ -1,0 +1,84 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    101                     "#FD NO,#ACCOUNT NO,#DATE,#NAME,ADDRESS,NOMINEE,A/C OPENED DATE,AMOUNT,MATURITY AMOUNT,MATURITY DATE,INTEREST AMOUNT,"
+    102                     "#ACCOUNT NO,#NAME,#DATE,FATHER NAME,ADDRESS,PHONE ,NOMINEE,CLOSE/OPERATIVE,SONGLE/JOINT,CAN INTRODUCED,BALANCE,"
+    103                     "#ACCOUNT NO,#NAME,#DATE,FATHER NAME,ADDRESS,PHONE ,NOMINEE,CLOSE/OPERATIVE,SONGLE/JOINT,CAN INTRODUCED,BALANCE,"
+    104                     "#ACCOUNT NO,#NAME,#DATE,FATHER NAME,ADDRESS,PHONE ,NOMINEE,CLOSE/OPERATIVE,SONGLE/JOINT,CAN INTRODUCED,BALANCE,"
+    105                     "#ACCOUNT NO,#NAME,#DATE,FATHER NAME,ADDRESS,PHONE NO,NOMINEE,PERIOD,AMOUNT,RATE OF INTEREST,MATURITY AMOUNT,RD LIEN,IS CLOSED,MATURITY DATE,"
+    106                     "#LOAN A/C NO,#RD A/C NO,#NAME,#DATE,FATHER NAME,ADDRESS,PHONE NO,LOAN AMOUNT,ISCLOSED,AMOUNT,"
+    107                     "#ACCOUNT NO,#NAME,AMOUNT,FD NO,LOAN SANCTIONED,DATE,ADDRESS,"
+    108                     "#ACCOUNT NO,#ISSUE DATE,#NAME,LOOSE CHEQUES,CHEQUE NO FROM,CHEQUE NO TO,NO OF CHEQUES USED,"
+    109                     "#ACCOUNT NO,#ISSUE DATE,#NAME,LOOSE CHEQUES,CHEQUE NO FROM,CHEQUE NO TO,NO OF CHEQUES USED,"
+    110                     "#ACCOUNT NO,#NAME,#CHEQUE NO,CLEARING DATE,CLEARED,AMOUNT,CHEQUE DATE,"
+    111                     "#ACCOUNT NO,#NAME,#CHEQUE NO,CLEARING DATE,CLEARED,AMOUNT,CHEQUE DATE,"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

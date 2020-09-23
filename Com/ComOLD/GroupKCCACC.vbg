@@ -1,0 +1,5 @@
+VBGROUP 5.0
+StartupProject=..\Script\Prj_KCCACC.vbp
+Project=KCCACCRate_of_Interest.vbp
+Project=KCCACCStockHandDp.vbp
+Project=KCCACCApprovedCom.vbp
